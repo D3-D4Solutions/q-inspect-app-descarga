@@ -1,0 +1,5 @@
+Fuentes locales (sin CDN):
+- SpaceAge.woff2 y/o SpaceAge.ttf  -> nombre "D3-D4 Solutions"
+- InstrumentSans-Variable.woff2      -> títulos
+- Inter-Variable.woff2               -> texto
+Si falta alguna, la página usa una fuente del sistema.

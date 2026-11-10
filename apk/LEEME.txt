@@ -1,0 +1,2 @@
+Coloca aquí el APK firmado con el nombre que indica version.json (apk_url).
+Ejemplo: q-inspect-6.1.0.apk
